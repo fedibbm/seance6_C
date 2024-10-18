@@ -10,6 +10,7 @@ int main(){
 	var -= 2;
  	*ptr += 3;
 	printf("%d %d %d %p\n",var,*ptr,*&var,&*ptr);
+	//taisir
 	
 	return 0;
 }
