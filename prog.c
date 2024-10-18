@@ -11,6 +11,7 @@ int main(){
  	*ptr += 3;
 	printf("%d %d %d %p\n",var,*ptr,*&var,&*ptr);
 	//taisir
+	printf("%d", var);
 	
 	return 0;
 }
